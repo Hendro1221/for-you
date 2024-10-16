@@ -1,2 +1,2 @@
-# for-you
-ini project bucin ogut
+# kado
+-
